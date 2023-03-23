@@ -25,9 +25,9 @@ LABEL com.github.actions.name="Some Image" \
       org.opencontainers.image.url="https://github.com/${orgname}/${reponame}" \
       org.opencontainers.image.source="https://github.com/${orgname}/${reponame}" \
       org.opencontainers.image.documentation="https://github.com/${orgname}/${reponame}" \
-      org.opencontainers.image.vendor="GitHub" \
+      org.opencontainers.image.vendor="GitHub" \  asdfasdf
       org.opencontainers.image.description="Its a build image"
-
+asdfasfdsadf
 ########################################
 # Copy dependencies files to container #
 ########################################
